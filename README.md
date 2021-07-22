@@ -12,8 +12,10 @@
 [<img align="left" alt="osama-a-rehman | Instagram" width="25px" src="https://raw.githubusercontent.com/osama-a-rehman/osama-a-rehman/main/icons/connect-with-me/instagram.png" style="margin-left: 16px" />][instagram]
 [<img align="left" alt="osama-a-rehman | Facebook" width="25px" src="https://raw.githubusercontent.com/osama-a-rehman/osama-a-rehman/main/icons/connect-with-me/facebook.png" style="margin-left: 16px" />][facebook]
 
-<br />	
+<br />
+
 #### Languages and Tools:
+
 <img align="left" alt="Typescript" width="30px" height="30px" src="https://raw.githubusercontent.com/osama-a-rehman/osama-a-rehman/main/icons/languages-and-tools/typescript.png" />
 <img align="left" alt="Angular" width="32px" height="32px" src="https://raw.githubusercontent.com/osama-a-rehman/osama-a-rehman/main/icons/languages-and-tools/angular.png" style="margin-left: 10px" />
 <img align="left" alt="Java" width="32px" height="32px" src="https://raw.githubusercontent.com/osama-a-rehman/osama-a-rehman/main/icons/languages-and-tools/java.png" style="margin-left: 6px" /><img align="left" alt="Spring Boot" width="32px" height="32px" src="https://raw.githubusercontent.com/osama-a-rehman/osama-a-rehman/main/icons/languages-and-tools/spring-boot.png" style="margin-left: 6px" />
