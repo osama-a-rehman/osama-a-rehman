@@ -1,9 +1,9 @@
 ## Hi there 👋
 ### I'm a Osama!
 
-- 💼 Working as a `Software Development Engineer` at [uRebal](https://urebal.com).
-- 📖 Exploring new technologies.
-- 💁🏻 Helping others on [Stackoverflow](https://stackoverflow.com/users/12099409/osama-abdul-rehman).
+- 💼 &nbsp; Working as a `Software Development Engineer` at [uRebal](https://urebal.com).
+- 📖 &nbsp; Exploring new technologies.
+- 💁🏻 &nbsp; Helping others on [Stackoverflow](https://stackoverflow.com/users/12099409/osama-abdul-rehman).
 
 #### Connect with me:
 [<img align="left" alt="osama-a-rehman | Stack-overflow" width="25px" src="https://raw.githubusercontent.com/osama-a-rehman/osama-a-rehman/main/icons/connect-with-me/stack-overflow.png" />][stackoverflow]
