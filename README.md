@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I'm a Osama!
+### I'm Osama!
 
 - 💼 &nbsp; Working as a `Software Development Engineer` at [uRebal](https://urebal.com).
 - 📖 &nbsp; Exploring new technologies.
