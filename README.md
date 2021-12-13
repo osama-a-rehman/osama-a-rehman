@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### I'm Osama!
 
-- 💼 &nbsp; Working as a `Software Development Engineer` at [uRebal](https://urebal.com).
+- 💼 &nbsp; Former Contributor at [uRebal](https://urebal.com) as `Software Development Engineer II`.
 - 📖 &nbsp; Exploring new technologies.
 - 💁🏻 &nbsp; Helping others on [Stackoverflow](https://stackoverflow.com/users/12099409/osama-abdul-rehman).
 
