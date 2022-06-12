@@ -1,6 +1,7 @@
 ## Hi there 👋
 ### I'm Osama!
 
+- 💼 &nbsp; Software Engineer at [Sec2do](https://www.sec2do.com/en/home-en).
 - 💼 &nbsp; Former Contributor at [uRebal](https://urebal.com) as `Software Development Engineer II`.
 - 📖 &nbsp; Exploring new technologies.
 - 💁🏻 &nbsp; Helping others on [Stackoverflow](https://stackoverflow.com/users/12099409/osama-abdul-rehman).
